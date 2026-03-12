@@ -99,8 +99,6 @@ Translate raw customer shopping data into **strategic business intelligence** th
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
 ## 📁 Repository Structure
 
